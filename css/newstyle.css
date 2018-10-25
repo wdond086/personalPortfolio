@@ -284,3 +284,15 @@ header nav {
 img {
     height: 50px;
 }
+
+#experience  h1 {
+    font-family: 'Patua One', 'cursive';
+    padding-bottom: 1em;
+    padding-top: 0.5em;
+    text-align: center;
+}
+
+#projects p {
+    padding-top: 0.5em;
+    margin-bottom: 0.5em;
+}
