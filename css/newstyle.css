@@ -158,7 +158,7 @@ header nav {
 .container-1 {
     width: 90%;
     margin-left: 5%;
-    display: block;
+    display: inline-block;
 }
 
 #landing img {
@@ -295,4 +295,8 @@ img {
 #projects p {
     padding-top: 0.5em;
     margin-bottom: 0.5em;
+}
+
+#projects a {
+    color: black;
 }
