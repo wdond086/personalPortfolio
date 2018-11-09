@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
 @import url('https://fonts.googleapis.com/css?family=Patua+One');
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -325,4 +329,11 @@ img {
     list-style-type: none;
     justify-content: space-around;
     padding: 2em 0.5em;
+}
+
+footer {
+    width: 100%;
+    font-size: 13px;
+    text-align: center;
+    padding-bottom: 2em;
 }
