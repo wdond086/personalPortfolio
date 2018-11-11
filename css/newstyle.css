@@ -392,7 +392,7 @@ footer p {
     }
 
     #skillset {
-        padding-top: 2em;
+        padding-top: 4em;
     }
 
     #skillset h1 {
@@ -429,6 +429,7 @@ footer p {
     .container-2 h1 {
         color: #D56062;
         font-size: 40px;
+        padding-top: 1em;
     }
 
     .container p {
@@ -469,6 +470,7 @@ footer p {
         color: #D56062;
         font-size: 40px;
         padding-bottom: 0px;
+        padding-top: 1.2em;
     }
 
     #experience p {
