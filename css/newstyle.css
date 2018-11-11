@@ -211,7 +211,7 @@ header nav {
 .pro-skillset h1 {
     text-align: center;
     padding: 1em 0.5em;
-    padding-top: 0.2em;
+    padding-top: 2em;
     color: #D56062;
     font-family: 'Patua One', cursive;
 }
@@ -251,6 +251,7 @@ header nav {
     text-align: center;
     padding-bottom: 0.6em;
     font-family: 'Patua One', 'cursive';
+    padding-top: 2em;
 }
 
 .container-2 h2 {
@@ -300,7 +301,7 @@ img {
 #experience  h1 {
     font-family: 'Patua One', 'cursive';
     padding-bottom: 1em;
-    padding-top: 0.5em;
+    padding-top: 2em;
     text-align: center;
 }
 
